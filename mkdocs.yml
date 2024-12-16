@@ -1,11 +1,11 @@
-site_name: cookiecutter-uv
-repo_url: https://github.com/fpgmaas/cookiecutter-uv
-site_url: https://fpgmaas.github.io/cookiecutter-uv
+site_name: modern-python-template
+repo_url: https://github.com/inakineitor/modern-python-template
+site_url: https://inakineitor.github.io/modern-python-template
 site_description: A cookiecutter template for Python projects that use uv for its dependency management
-site_author: Florian Maas
+site_author: Iñaki Arango
 edit_uri: edit/main/docs/
-repo_name: fpgmaas/cookiecutter-uv
-copyright: Maintained by <a href="https://fpgmaas.com">Florian</a>.
+repo_name: inakineitor/modern-python-template
+copyright: Maintained by <a href="https://inaki.io">Iñaki</a>.
 
 nav:
   - Home: index.md
@@ -54,9 +54,9 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/fpgmaas/cookiecutter-uv
+      link: https://github.com/inakineitor/modern-python-template
     - icon: fontawesome/brands/python
-      link: https://pypi.org/project/cookiecutter-uv/
+      link: https://pypi.org/project/modern-python-template # TODO: Check if this already exists
 markdown_extensions:
   - toc:
       permalink: true
