@@ -6,7 +6,7 @@ authors = [{ name = "Iñaki Arango", email = "arangoinaki@gmail.com" }]
 readme = "README.md"
 keywords = ['cookiecutter', 'template', 'uv']
 requires-python = ">=3.12,<4.0"
-dependencies = ["cookiec12tter>=2.1.1"]
+dependencies = ["cookiecutter>=2.1.1"]
 classifiers = [
   "Development Status :: 4 - Beta",
   "Intended Audience :: Developers",
